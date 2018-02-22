@@ -1,2 +1,3 @@
 # mp-project
-@Authors: Gustavo Martinez
+@Authors: Gustavo Martinez,
+          Marc Núñez
